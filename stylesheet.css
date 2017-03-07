@@ -1,0 +1,64 @@
+body{
+  color: #ee3322
+}
+
+h2, p{
+  color: #3d0b07
+}
+
+p{
+  font-size: 20px;
+  width: 70vw;
+}
+
+.glyphicon{
+  color: #ee3322;
+  font-size: 30px;
+}
+
+.orange{
+  color: #ee3322
+}
+
+.content{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#circle {
+    background: #ffee00;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 7px;
+}
+
+.contact{
+  flex-direction: row;
+}
+
+.fa{
+  vertical-align: middle;
+  line-height: 50px;
+  display: table;
+  margin: 0 auto;
+  color: #3d0b07
+}
+
+.fa:hover{
+  color: #ee3322;
+}
+
+a{
+  color: #ee3322;
+}
+
+a:hover{
+  text-decoration: none;
+  color: #ac2013
+}
